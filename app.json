@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "native_jobs",
+    "slug": "native_jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "96216fb8-fcf5-4f9b-9052-c64d2ef957bd"
+      }
+    },
+    "android": {
+      "package": "com.biny01.native_jobs"
+    }
+  }
+}
